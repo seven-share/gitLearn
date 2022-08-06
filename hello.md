@@ -27,7 +27,7 @@ here is 3
 here is dev
 
 
-here is mater commit master
+here is mater hello master commit dev
 
 dev branch write
 
