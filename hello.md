@@ -29,7 +29,6 @@ here is dev
 
 here is mater hello master commit dev
 
-<<<<<<< HEAD
 fjlaksd
 
 fklsadjfsa
@@ -37,9 +36,7 @@ fklsadjfsa
 kasdgas
 
 aksdkga
-=======
 master create
->>>>>>> master
 
 dev branch write
 
